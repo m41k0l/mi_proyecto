@@ -1,4 +1,4 @@
- PLANIFICADOR DE TREKKING Y ALTA MONTAÑA
+# PLANIFICADOR DE TREKKING Y ALTA MONTAÑA
 
 Aplicación profesional desarrollada en Python que permite planificar expediciones de trekking y montaña mediante el consumo de APIs externas en tiempo real. El sistema analiza condiciones climáticas, calcula rutas de senderismo y genera alertas de seguridad para apoyar la toma de decisiones antes de iniciar una expedición.
 
